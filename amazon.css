@@ -1,0 +1,298 @@
+*{ 
+    box-sizing:border-box;
+}
+.m{
+    margin:0px
+}
+.row1{
+   
+    height:60px;
+    background-color:rgb(15,25,33)
+
+   
+}
+.col1{
+    width:113px;
+    margin-left:15px;
+    padding-top:4px;
+    float:left;
+    height:100%;
+}
+.am{
+    padding-left:6px;
+    padding-right:8px;
+    margin-right:1px;
+    margin-left:1px;
+    padding-top:1px;
+    width:113px;
+    float:left;
+    height:50px;
+}
+    
+.col2{
+    border:solid 1px blue;
+    width:120px;
+    margin-left:2px;
+    float:left;
+    height:98%;
+
+}
+.col3{
+    border:solid 1px blue;
+    width:1000px;
+    margin:2px;
+    float:left;
+    height:90%;
+
+}
+.col4{
+    border:solid 1px blue;
+    width:118px;
+    margin-left:2px;
+    float:left;
+    height:98%;
+
+   }
+.col5{
+    border:solid 1px blue;
+    width:198px;
+    margin-left:2px;
+    float:left;
+    height:98%;
+
+}
+.col6{
+    border:solid 1px blue;
+    width:98px;
+    margin-left:2px;
+    float:left;
+    height:98%;
+
+}
+.col7{
+    border:solid 1px blue;
+    width:118px;
+    margin-left:2px;
+    float:left;
+    height:98%;
+
+}
+    
+.row2{
+    border:solid 1px black;
+    height:39px;
+    margin-top:1px;
+    background-color:rgb(35,47,62)
+ }
+
+.col21{
+    
+    width:61px;
+    float:left;
+    height:39px;
+    margin-left:4px;
+    
+}
+.p1{
+    font-size:25px;
+    color:white;
+    text-align:center;
+    margin:auto;
+    padding:8px 9px 8px 9px;
+    margin-right:3px;
+    
+    
+    
+}
+    
+.col22{
+    
+    width:109px;
+    float:left;
+    height:100%;
+    margin-left:2px;
+}
+.p2{
+    font-size:14px;
+    height:28px;
+    margin:auto;
+    color:white;
+    text-align:center;
+    margin-top:5px;
+    margin-bottom:6px;
+    padding:8px 12px 8px 12px;
+    text-align:center;
+    font-weight:700;
+    
+}
+.col23{
+    
+    width:134.34px;
+    float:left;
+    height:100%;
+    margin-left:2px;😊️
+}
+.p3{
+    font-size:14px;
+    height:12px;
+    color:white;
+    margin-top:5px;
+    padding-top:8px;
+    text-align:center;
+    font-weight:700;
+}
+    
+    
+.col24{
+  
+    width:75px;
+    float:left;
+    height:100%;
+    margin-left:2px;
+}
+.col25{
+    
+    width:87px;
+    float:left;
+    height:100%;
+    margin-left:2px;
+}
+.col26{
+ 
+    width:47.38px;
+    float:left;
+    height:98%;
+    margin-left:2px;
+}
+.col27{
+    
+    width:177px;
+    float:right;
+    height:100%;
+    padding-right:14px;
+    
+}
+    
+.row3{
+    
+    height:320px;
+    margin-left:147px;
+    margin-right:147px;
+    margin-top:10px;
+    padding-left:20px;
+    width:1500px;
+   
+}
+.ib{
+    margin:auto;
+    height:300px;
+    width:1500px;
+   
+}
+.row4{
+    height:380px;
+    margin-left:147px;
+    margin-right:147px;
+   
+    width:1520px;
+   
+}
+.col41{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.col42{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.a{
+    height:360px;
+    width:360px;
+    float:left;
+}
+.a{
+    height:360px;
+    width:360px;
+    float:left;
+}
+    
+.col43{
+
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.col44{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.row5{
+    height:380px;
+    margin-left:147px;
+    margin-right:147px;
+    width:1540px;  
+}
+.col51{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.col52{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.col53{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.col54{
+    height:378px;
+    width:380px;
+    padding-left:20px;
+    float:left;
+}
+.row6{
+    margin-top:30px;
+    width:1831px;
+    height:1118px;
+}
+.row61{
+    width:1831px;
+    height:49px;
+    background-color:rgb(0, 75, 145);
+    margin-bottom:40px;
+}
+.r1{
+    text-align:center;
+    color:white;
+    padding-top:15px;
+    padding-bottom:15px;
+    height:19px;
+}
+.row62{
+    width:1831px;
+    margin-left:415px;
+    margin-right:415px;
+    height:318px;
+    
+}
+.c61{
+    width:136.180px;
+    height:100%;
+    padding-left:10px;
+    padding-right:10px;
+}
+    
+
